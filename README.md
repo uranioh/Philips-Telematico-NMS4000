@@ -6,7 +6,7 @@ This is a project about converting the Philips Telematico NMS 4000 into a functi
 # STATUS:
 - [x] Mapped the keyboard layout onto a JSON file, like the image shown up there.
 - [x] Acquired the hardware to map the pinout and create a QMK firmware
-- [ ] Mapped the pinout using either a multimeter or Arduino (TBD)
+- [x] Mapped the pinout using a multimeter
 - [ ] Firmware created
 - [ ] Wiring the thing inside its shell and hotgluing everything (until I think about a better solution)
 - [ ] Project complete!
@@ -22,3 +22,8 @@ Tools used:
 - Computer
 - ChatGPT lol.
 - Zen Browser
+
+/s
+Actual software used:
+- [Keyboard Layout Editor](https://www.keyboard-layout-editor.com)
+- [KBFirmware](https://kbfirmware.com/)
